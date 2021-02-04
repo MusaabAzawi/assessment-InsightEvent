@@ -1,6 +1,7 @@
 <?php
 include_once 'database.php';
 
+// code gebruikt van php course in het verleden. code.tutsplus.com
 $db = new mysqli($host,$username,$password,$dbname);
     
     if($db->connect_error){
