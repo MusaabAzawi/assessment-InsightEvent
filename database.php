@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "user1";
-$password = "Test1234";
+$password = "Test1234"; // local only
 $dbname = "form";
 
 function getData(){
