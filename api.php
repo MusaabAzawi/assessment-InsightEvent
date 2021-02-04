@@ -19,3 +19,5 @@ $result = curl_exec($curl);
 if(!$result){die("Connection Failure");}
 curl_close($curl);
 echo $result;
+
+//volledig gekopieerd. Json parsen 404 
